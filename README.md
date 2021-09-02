@@ -19,6 +19,12 @@ We will start with cleaning up tweets as text using preprocessing,
 enter them into a classifying LSTM model and activate with the sigmoid function.
 This classifier produces predictions on the class (Positive or Negative) to which the tweet.
 
+### Dataset (Links to google Drive)
+* Link to the french tweets : https://drive.google.com/file/d/1HGo_f1DBD1hOMhcrIuSso2ccHOo5Udhl/view?usp=sharing
+* Link to the tensorflow model (H5) : https://drive.google.com/file/d/1LYGFAJjg9WKdP9bEdyW1Ya8HOOrBCNwC/view?usp=sharing
+* Link to the tensorflow lite model converted : https://drive.google.com/file/d/1q-fJkAPk8EnR270odVtvDrF1lTLdHWFa/view?usp=sharing
+* Link to the dictionary of words : https://drive.google.com/file/d/1uW41xBJf9Nn7UrtIePgYQASPqlt6e_7t/view?usp=sharing
+
 
 ### Librairies of Machine Learning :
 * Langage Python 3
