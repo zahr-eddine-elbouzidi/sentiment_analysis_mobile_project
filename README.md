@@ -22,8 +22,8 @@ This classifier produces predictions on the class (Positive or Negative) to whic
 ### Dataset (Links to google Drive)
 * Link to the french tweets : https://drive.google.com/file/d/1HGo_f1DBD1hOMhcrIuSso2ccHOo5Udhl/view?usp=sharing
 * Link to the tensorflow model (H5) : https://drive.google.com/file/d/1LYGFAJjg9WKdP9bEdyW1Ya8HOOrBCNwC/view?usp=sharing
-* Link to the tensorflow lite model converted : https://drive.google.com/file/d/1q-fJkAPk8EnR270odVtvDrF1lTLdHWFa/view?usp=sharing
-* Link to the dictionary of words : https://drive.google.com/file/d/1uW41xBJf9Nn7UrtIePgYQASPqlt6e_7t/view?usp=sharing
+* Link to the tensorflow lite model converted (my_classification_model.tflite): https://drive.google.com/file/d/1q-fJkAPk8EnR270odVtvDrF1lTLdHWFa/view?usp=sharing
+* Link to the dictionary of words (converted_model_classifier.txt) : https://drive.google.com/file/d/1uW41xBJf9Nn7UrtIePgYQASPqlt6e_7t/view?usp=sharing
 
 
 ### Librairies of Machine Learning :
