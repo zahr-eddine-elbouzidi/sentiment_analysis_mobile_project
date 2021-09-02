@@ -1,13 +1,14 @@
 # Sentiment Analysis in Deep Neural Network (LSTM and Tensorflow) - Implementation an android mobile application
 ## Project name : Twitter Sentiments Analysis and Classification - Model implementation in an Android mobile application
-### Developed by:
+### Developed by :
 * AHMED-AMINE GUIIDAT
 * ZAHR-EDDINE  EL BOUZIDI
+* IDDLO (TA)
 ### Framed by :
 * Mr Prof Abdelhak MAHMOUDI
 
 
-### Description :
+### Description  :
 
 The objective of our project is to carry out an exploratory and visual analysis of tweets in language
 French present in our dataset.
