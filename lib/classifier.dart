@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 // Import tflite_flutter
 import 'package:tflite_flutter/tflite_flutter.dart';
 
-class Classifier {
+class Classifier { 
   // name of the model file
   final _modelFile = 'converted_classifier_model.tflite';
   final _vocabFile = 'converted_labels_classifier.txt';
