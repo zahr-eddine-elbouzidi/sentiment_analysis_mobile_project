@@ -3,10 +3,11 @@
 ### Developed by :
 * AHMED-AMINE GUIIDAT
 * ZAHR-EDDINE  EL BOUZIDI
-* IDDLO (TA)
+
 ### Framed by :
 * Mr Prof Abdelhak MAHMOUDI
-
+ ###  Master :
+ * IDDLO (TA)
 
 ### Description  :
 
