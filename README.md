@@ -7,7 +7,7 @@
 ### Framed by :
 * Mr Prof Abdelhak MAHMOUDI
  ###  Master :
- * IDDLO (TA)
+ * IDDLO (TA) : 2020 - 2021
 
 ### Description  :
 
@@ -41,4 +41,10 @@ This classifier produces predictions on the class (Positive or Negative) to whic
 * android studio IDE
 * my_classification_model.tflite
 * converted_model_classifier.txt
+
+
+
+<img width="328" alt="Screen Shot 2021-09-02 at 15 57 17" src="https://user-images.githubusercontent.com/38129966/131893159-ee873e9f-2ed3-4f30-bebd-e5d0e5b0e0e0.png"> <img width="327" alt="Screen Shot 2021-09-02 at 16 19 35" src="https://user-images.githubusercontent.com/38129966/131893337-28b61f7a-0027-463e-8685-36750db1ffd6.png"> <img width="327" alt="Screen Shot 2021-09-02 at 16 23 39" src="https://user-images.githubusercontent.com/38129966/131893618-b7b7eda8-e2db-4c93-86a2-ab374691db99.png"> <img width="331" alt="Screen Shot 2021-09-02 at 16 22 15" src="https://user-images.githubusercontent.com/38129966/131893479-4ef52d0f-7bd2-4f0c-80b8-6361a70e9a28.png">
+
+
 
